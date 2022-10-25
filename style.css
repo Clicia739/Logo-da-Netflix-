@@ -1,0 +1,44 @@
+ body {
+   height: 100%;
+   width: 100%;
+   background: #000;
+}
+
+div{
+  width: 50px;
+  height: 250px;
+  background: #b20710;
+  position: relative;
+  margin: 40%;
+}
+
+div::after{
+  content: "#";
+  width: 175px;
+  height: 20px;
+  background: #000;
+  position: absolute;
+  bottom: -10px;
+  left: -15px;
+  borde-radius: 50%;
+}
+
+div::before{
+  content: " ";
+  width: 50px;
+  height: 250px;
+  background: #b20710;
+  position: absolute;
+  left: 90px;
+}
+
+span{
+  width: 50px;
+  height: 250px;
+  background: #e50914;
+  position: absolute;
+  left: 46px;
+  transform: skew(20deg);
+  box-shadow: 0 0 10px -4px #000;
+}
+
