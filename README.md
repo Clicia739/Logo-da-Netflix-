@@ -1,13 +1,13 @@
-#Logo.
-Tecnologias
+# Logo.
+## Tecnologias
 Projeto desenvolvido com as seguintes tecnologias:
 
-HTML
-CSS
-Git
-Github
-Figma
-Projeto
+- HTML
+- CSS
+- Git
+- Github
+
+## Projeto
 Desenvolvi esse projeto de recriar o logo da netflix com css.
 
 Acesse o projeto aqui, online!
